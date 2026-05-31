@@ -1,36 +1,5 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
-<p align='center'>
-    <a href="https://github.com/glitch-bane" style="margin-right: 20px;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50">
-        </picture>
-    </a>
-    <a href="https://maug.moulach.com" style="margin-right: 20px;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true" width="50" height="50">
-        </picture>
-    </a>
-    <a href="https://loose.skre.ws" style="margin-right: 20px;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.dark.jpg?raw=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true" width="50" height="50">
-        </picture>
-    </a>
-    <a href="https://www.buymeacoffee.com/glitchbane">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.dark.png?raw=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="50" height="50">
-        </picture>
-    </a>
-</p>
-
 ---
 
 I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *lifelong learner* who's embarked on a path of existential discovery. I've been engineering software for over a decade now and still find it exciting. This journey of life has been difficult so far, but quite interesting.  I've been fortunate to have many individuals walk alongside me and am grateful for each and every one of them.
