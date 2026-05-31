@@ -1,19 +1,18 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
 <p align='center'>
-    <a href="https://github.com/glitch-bane">
+    <a href="https://github.com/glitch-bane" style="margin-right: 10px;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="35" height="35">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50">
         </picture>
     </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://maug.moulach.com">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true" width="35" height="35">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true" width="50" height="50">
         </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
@@ -21,7 +20,7 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.dark.jpg?raw=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true" width="35" height="35">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true" width="50" height="50">
         </picture>
     </a>
     &nbsp;&nbsp;&nbsp;
@@ -29,7 +28,7 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.dark.png?raw=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true">
-            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="35" height="35">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="50" height="50">
         </picture>
     </a>
 </p>
