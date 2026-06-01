@@ -58,15 +58,11 @@ If you found value in something I have created, please feel free to send me a <a
 ---
 
 <samp>
-    <p align="center">
-        「 A software engineer from the <b>United States</b> 」
-        <br/>
-        「 creating impactful utilities that improve lives 」
-        <br/><br/>
-        ════ ⋆★⋆ ════
-        <br/>
-        ⥤ Happy Coding ⥢
-        <br/><br/>
+    <p align="center"><br/>
+        「 software engineer from the <b>United States</b><br/>
+              building impactful tools to improve life 」<br/><br/>
+        ══════ ⋆★⋆ ══════<br/>
+        ⥤ Stay Terminal <b>~$></b> ⥢<br/><br/>
         <sub>For business inquiries — Create an issue for this repo.</sub>
     </p>
 </samp>
