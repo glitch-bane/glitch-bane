@@ -1,8 +1,37 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
+<p align='center'>
+    <a href="https://github.com/glitch-bane" style="padding-right: 20px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50">
+        </picture>
+    </a>
+    <a href="https://maug.moulach.com" style="margin-right: 20px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true" width="50" height="50">
+        </picture>
+    </a>
+    <a href="https://loose.skre.ws" style="margin-right: 20px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.dark.jpg?raw=true">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true" width="50" height="50">
+        </picture>
+    </a>
+    <a href="https://www.buymeacoffee.com/glitchbane">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.dark.png?raw=true">
+            <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="50" height="50">
+        </picture>
+    </a>
+</p>
+
 ---
 
+<p align="justify">
 I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *lifelong learner* who's embarked on a path of existential discovery. I've been engineering software for over a decade now and still find it exciting. This journey of life has been difficult so far, but quite interesting.  I've been fortunate to have many individuals walk alongside me and am grateful for each and every one of them.
+</p>
 
 I think **Anthony Bourdain** put it best: 
 
@@ -10,15 +39,19 @@ I think **Anthony Bourdain** put it best:
 > 
 > ~ *Anthony Bourdain, No Reservations*
 
+<p align="justify">
 This might be a bit untraditional for a bio, but afterall, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub *personally* to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can.
+</p>
 
+<p align="justify">
 If you found value in something I have created, please feel free to send me a [coffee](https://www.buymeacoffee.com/glitchbane), or better yet, pay-it-forward by supporting international amateur poets ([The Skrews Syndication, (EN)](https://loose.skre.ws/issues/000.html)) who have shed beautiful and vulnerable pieces of thier own journeys through poetry.
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/glitch-bane/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
 
 ---
 
-**TECHNOLOGIES**
+**TECHNOLOGIES ON-THE-ROSTER**
 
 ![](https://img.shields.io/badge/Language-Dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
@@ -27,7 +60,7 @@ If you found value in something I have created, please feel free to send me a [c
 
 ![](https://img.shields.io/badge/Language-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5dade2)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5dade2)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5dade2)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Platform-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=af7ac5)&nbsp;&nbsp;
 
 ![](https://img.shields.io/badge/Platform-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=af7ac5)&nbsp;&nbsp;
@@ -40,9 +73,17 @@ If you found value in something I have created, please feel free to send me a [c
 
 ---
 
-**CURRENTLY LEARNING OR ON-THE-ROSTER**
-
-![](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Platform-K8s-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Nuclio-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Spark-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
+<samp>
+    <p align="center">
+        「 I'm a software developer from the <b>United States</b> 」
+        <br>
+        「 Focused on creating impactful utilities that improve lives</b> 」
+        <br>
+        <br>
+        ════ ⋆★⋆ ════
+        <br>
+        "⚉ Happy Coding ⚉"
+        <br/><br/>
+        <sub>For business inquiries — Create an issue for this repo.</sub>
+    </p>
+</samp>
