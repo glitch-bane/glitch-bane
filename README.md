@@ -62,7 +62,9 @@ If you found value in something I have created, please feel free to send me a <a
         「 software engineer from the <b>United States</b><br/>
               building impactful tools to improve life 」<br/><br/>
         ══════ ⋆★⋆ ══════<br/>
-        ⥤ Stay Terminal <b>~$></b> ⥢<br/><br/>
+        ⥤ Stay Terminal <b>~$></b> ⥢<br/>
+        <b><code>exit 0</code></b><br/><br/>
         <sub>For business inquiries — Create an issue for this repo.</sub>
     </p>
 </samp>
+
