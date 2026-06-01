@@ -1,14 +1,14 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
-<p align='center'>
-    <div>
+<samp align='center'>
+    <p>
     <a href="https://github.com/glitch-bane">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true" />
             <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50" />
         </picture>
     </a>
-    <div>
+    </p>
     <a href="https://maug.moulach.com" style="margin-right: 20px;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true">
@@ -27,7 +27,7 @@
             <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="50" height="50">
         </picture>
     </a>
-</p>
+</samp>
 
 ---
 
