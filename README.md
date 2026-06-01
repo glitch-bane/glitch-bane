@@ -1,12 +1,14 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
 <p align='center'>
-    <a href="https://github.com/glitch-bane" style="padding-right: 20px;">
+    <div>
+    <a href="https://github.com/glitch-bane">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true" />
             <img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50" />
         </picture>
     </a>
+    <div>
     <a href="https://maug.moulach.com" style="margin-right: 20px;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true">
@@ -77,7 +79,7 @@ If you found value in something I have created, please feel free to send me a <a
     <p align="center">
         「 A software engineer from the <b>United States</b> 」
         <br/>
-        「 Focused on creating impactful utilities that improve lives</b> 」
+        「 creating impactful utilities that improve lives 」
         <br/><br/>
         ════ ⋆★⋆ ════
         <br/>
