@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="685px" height="230px" font-size="16px">
+<style>
+    @font-face {
+        src: local('Consolas'), local('Consolas Bold');
+        font-family: 'ConsolasFallback';
+        font-display: swap;
+        -webkit-size-adjust: 109%;
+        size-adjust: 109%;
+    }
+    text, tspan {white-space: pre;}
+</style>
+<rect width="685px" height="230px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+	<tspan x="15" y="030"> ################################################################## </tspan>
+	<tspan x="15" y="050"> ###    ###         ###        ####         ##   #####  ###     ### </tspan>
+	<tspan x="15" y="070"> ###    ###    #    ###    #    ###     ##  ##    ###   ###     ### </tspan>
+	<tspan x="15" y="090"> ###    ###    #    ###    #    ###    ########    #   ####     ### </tspan>
+	<tspan x="15" y="110"> ###    ###    #    ###    #    ###       ######      #####     ### </tspan>
+	<tspan x="15" y="130"> ###    ###    #    ###    #    ###    ########    #   ############ </tspan>
+	<tspan x="15" y="150"> ###    ###    #    ###    #    ###     ##  ##    ###   ########### </tspan>
+	<tspan x="15" y="170"> ###    ###    #    ###        ####         ##   #####  ###     ### </tspan>
+	<tspan x="15" y="190"> ################################################################## </tspan>
+	<tspan x="15" y="210"> ###################### . I . N . D . E . X . #################!gb! </tspan>
+</text>
+</svg>
