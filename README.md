@@ -1,22 +1,6 @@
 # [![GLITCH-BANE Profile Header](https://raw.githubusercontent.com/glitch-bane/glitch-bane/main/assets/images/banner.jpg)](https://github.com/glitch-bane)
 
-<p align='center'>
-    <!-- GITHUB ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.light.svg?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.dark.svg?raw=true" /></picture></a>
-</p>
-
-<p align='center'>
-    <!-- GITHUB ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50" /></picture></a>&nbsp;
-    <!-- WINE ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://maug.moulach.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.dark.png?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/wine.png?raw=true" width="50" height="50" /></picture></a>&nbsp;&nbsp;
-    <!-- SSPC ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://loose.skre.ws"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.dark.jpg?raw=true"><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/skrews.jpg?raw=true" width="50" height="50"></picture></a>&nbsp;&nbsp;
-    <!-- BMAC ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://www.buymeacoffee.com/glitchbane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.dark.png?raw=true"><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/buy-me-a-coffee.png?raw=true" width="50" height="50"></picture></a>&nbsp;&nbsp;
-</p>
-
----
+<p align="justify">&nbsp;</p>
 
 > **"**For thousands of years men dreamed of pacts with demons. Only now are such things possible. And what would you be paid with? What would your price be, for aiding this thing to free itself and grow?**"**
 > 
@@ -32,27 +16,23 @@ But afterall, we're seeking life.  I find it best to not differentiate from this
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/glitch-bane/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
 
+![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5dade2)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=af7ac5)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Stack-Jamstack-informational?style=for-the-badge&logo=jamstack&logoColor=white&color=d98880)&nbsp;&nbsp;
+
+<p align="justify">&nbsp;</p>
+
 ---
 
-**TECHNOLOGIES ON-THE-ROSTER**
+<p align="justify">&nbsp;</p>
 
-![](https://img.shields.io/badge/Language-Dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-TSQL-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+<p align='center'>
+    <!-- GITHUB ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
+    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.light.svg?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.dark.svg?raw=true" /></picture></a>
+</p>
 
-![](https://img.shields.io/badge/Language-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5dade2)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5dade2)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Platform-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-
-![](https://img.shields.io/badge/Platform-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Argo-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Mirth-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-
-![](https://img.shields.io/badge/Stack-Jamstack-informational?style=for-the-badge&logo=jamstack&logoColor=white&color=d98880)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Stack-MEAN-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=d98880)&nbsp;&nbsp;
+<p align="justify">&nbsp;</p>
 
 ---
 
@@ -71,4 +51,7 @@ But afterall, we're seeking life.  I find it best to not differentiate from this
         <sub>For business inquiries — Create an issue for this repo.</sub>
     </p>
 </samp>
-
+<p align='center'>
+    <!-- GITHUB ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
+    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.dark.png?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/icons/github.png?raw=true" width="50" height="50" /></picture></a>&nbsp;
+</p>
