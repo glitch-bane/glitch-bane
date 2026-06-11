@@ -7,11 +7,7 @@
 > ~ *William Gibson, Neuromancer, 1984*
 
 <p align="justify">
-I'm an engineer; a winemaker; an artisan; a father; a poet; an explorer; and a *lifelong learner* who's embarked on a path of existential discovery. I've been engineering software for over a decade now and still find it exciting. This journey of life has been difficult so far, but quite interesting.  I've been fortunate to have many individuals walk alongside me and am grateful for each and every one of them.
-</p>
-
-<p align="justify">
-But afterall, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can. If you found value in something I have created, please feel free to send me a <a href="https://www.buymeacoffee.com/glitchbane">coffee</a>, or better yet, pay-it-forward by supporting international amateur poets <a href="https://loose.skre.ws/issues/000.html">(The Skrews Syndication, (EN))</a> who have shed beautiful and vulnerable pieces of thier own journeys through poetry.
+<i>But afterall</i>, we're seeking life.  I find it best to not differentiate from this end-goal.  I use GitHub to support random, one-off needs, to help my kids in their gaming endeavors, and to generally make life easier where I can. If you found value in something I have created, please feel free to send me a <a href="https://www.buymeacoffee.com/glitchbane">coffee</a>, or better yet, pay-it-forward by supporting international amateur poets <a href="https://loose.skre.ws/issues/000.html">(The Skrews Syndication, (EN))</a> who have shed beautiful and vulnerable pieces of thier own journeys through poetry.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=14&width=800&lines=~$%20git%20clone%20https://github.com/glitch-bane/docker-tlauncher.git;~$%20docker%20build%20-t%20tlauncher%20docker-tlauncher/source;~$%20docker%20run%20--rm%20-dit%20%20-v%20/tmp/.X11-unix:/tmp/.X11-unix%20-e%20DISPLAY=$DISPLAY%20tlauncher;~$)](https://git.io/typing-svg)
@@ -29,10 +25,14 @@ But afterall, we're seeking life.  I find it best to not differentiate from this
 
 <p align='center'>
     <!-- GITHUB ICON: CONSOLIDATED (GITHUB LINK FIX), NOTE 2 IMAGES (DARK/STANDARD) -->
-    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.light.svg?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.dark.svg?raw=true" /></picture></a>
+    &nbsp;&nbsp;<a href="https://github.com/glitch-bane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.light.svg?raw=true" /><img src="https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/index.dark.svg?raw=true" /></picture></a><br/><br/>
 </p>
 
-<p align="justify">&nbsp;</p>
+---
+
+> **"**FYI man, alright. You could sit at home, and do like absolutely nothing, and your name goes through like 17 computers a day. 1984? Yeah right, man. That's a typo. Orwell is here now. He's livin' large. We have no names, man. No names. We are nameless!**"**
+> 
+> ~ *Cereal Killer, 1995*
 
 ---
 
