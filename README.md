@@ -6,9 +6,7 @@
 > 
 > ...the dreams came on in the Japanese night like livewire voodoo, and he’d cry for it, cry in his sleep, and wake alone in the dark, curled in his capsule in some coffin hotel, his hands clawed into the bedslab, temperfoam bunched between his fingers, trying to reach the console that wasn’t there... 
 > 
-> ... He’d operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix... the elite stance involved a certain relaxed contempt for the flesh. The body was meat. Case fell into the prison of his own flesh... 
-> 
-> For thousands of years men dreamed of pacts with demons. Only now are such things possible. And what would you be paid with? What would your price be, for aiding this thing to free itself and grow?**"**
+> ... He’d operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix... the elite stance involved a certain relaxed contempt for the flesh. The body was meat. Case fell into the prison of his own flesh...**"**
 > 
 > ~ *William Gibson, Neuromancer, 1984*
 
@@ -34,8 +32,9 @@
 > ~ *Cereal Killer, Rant, 1995*
 
 > **"**V: I just want the world to know I was here, that I mattered...**"**
->
+> 
 > **"**Skye: Instead of a dream, you're living a nightmare, you're afraid of being erased, as if you never existed... You have been keeping up, you've made an impact. Not a single thing in this world isn't in the process of becoming something else. Likewise, you. Never look back. If you gotta kill, kill. If you gotta burn it all to the ground, let it burn.**"**
+> 
 > ~ *Cyberpunk 2077*
 
 ---
