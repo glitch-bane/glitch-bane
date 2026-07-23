@@ -3,12 +3,12 @@
 <p align="justify">&nbsp;</p>
 
 > **"**'Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts... A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding...
-
-...the dreams came on in the Japanese night like livewire voodoo, and he’d cry for it, cry in his sleep, and wake alone in the dark, curled in his capsule in some coffin hotel, his hands clawed into the bedslab, temperfoam bunched between his fingers, trying to reach the console that wasn’t there... 
-
-... He’d operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix... the elite stance involved a certain relaxed contempt for the flesh. The body was meat. Case fell into the prison of his own flesh... 
-
-For thousands of years men dreamed of pacts with demons. Only now are such things possible. And what would you be paid with? What would your price be, for aiding this thing to free itself and grow?**"**
+> 
+> ...the dreams came on in the Japanese night like livewire voodoo, and he’d cry for it, cry in his sleep, and wake alone in the dark, curled in his capsule in some coffin hotel, his hands clawed into the bedslab, temperfoam bunched between his fingers, trying to reach the console that wasn’t there... 
+> 
+> ... He’d operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix... the elite stance involved a certain relaxed contempt for the flesh. The body was meat. Case fell into the prison of his own flesh... 
+> 
+> For thousands of years men dreamed of pacts with demons. Only now are such things possible. And what would you be paid with? What would your price be, for aiding this thing to free itself and grow?**"**
 > 
 > ~ *William Gibson, Neuromancer, 1984*
 
