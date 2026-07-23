@@ -14,7 +14,7 @@
 <i>GitHub's where I stash the code that keeps my corner of the world running;</i> quick utilities to suppress the static down, field-expedient tools that give my kids an edge in their latest gaming fixation, automations that shave friction off the daily grind, and fragments of practical code recovered from the noise -left where others might stumble across them. Most of what's here exists because something needed doing. -Every commit's another problem crossed off the list, emerging from the spaces between deadlines and insomnia. If you found value in any of this, you know the protocol: a <a href="https://www.buymeacoffee.com/glitchbane">coffee</a> keeps the lights on or paying it forward to another runner to keep the signal alive. If not, jack out— <i>See you in the grid, choom</i>.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Doto&size=36&pause=500&color=FFFFFF&background=000000&vCenter=true&width=1012&height=65&lines=%22For+thousands+of+years+men+dreamed+of+pacts;with+demons.+Only+now+are+such+things+possible.;And+what+would+you+be+paid+with%3F;What+would+your+price+be%2C+for+aiding+this+thing;to+free+itself+and+grow%3F%22)](#)
+[![Typing SVG](https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/typing.pacts.svg?raw=true)](#)
 
 ---
 
