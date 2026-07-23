@@ -44,3 +44,8 @@
 │                                                         
 ▼                                                         
 ```
+
+---
+
+**Useful Links:**
+- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?font=Doto&size=36&pause=500&color=FFFFFF&vCenter=true&width=1012&height=65&lines=%22For+thousands+of+years+men+dreamed+of+pacts;with+demons.+Only+now+are+such+things+possible.;And+what+would+you+be+paid+with%3F;What+would+your+price+be%2C+for+aiding+this+thing;to+free+itself+and+grow%3F%22)
