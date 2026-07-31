@@ -5,16 +5,17 @@
 A quick reference to copy-paste unique unicode characters.
 
 **Circle Numbers:**
-❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿
+⓿ ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿
 ⓫ ⓬ ⓭ ⓮ ⓯ ⓰ ⓱ ⓲ ⓳ ⓴
-⓿
 
 **Circle Numbers, Small Alt:**
 ➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉
 
-**Circle Numbers, Medium Alt:**
-◯⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+**Circle Numbers, Medium Alt, Pt1:**
+◯ ⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
+
+**Circle Numbers, Medium Alt, Pt2:**
 ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚
 ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵
 ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
