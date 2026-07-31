@@ -9,17 +9,17 @@ A quick reference to copy-paste unique unicode characters.
 ⓫ ⓬ ⓭ ⓮ ⓯ ⓰ ⓱ ⓲ ⓳ ⓴
 ⓿
 
-**Circle Numbers, Alt:**
+**Circle Numbers, Small Alt:**
 ➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉
 
-⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+**Circle Numbers, Medium Alt:**
+◯⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳
-
 ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚
 ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵
 ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
-◯
 
+**Circle Numbers, Double Circle Alt:**
 ⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾
 
 **Square Numbers, Alt:**
@@ -54,12 +54,14 @@ A quick reference to copy-paste unique unicode characters.
 🆛 🆜 🆝 🆞 🆟 🆠 🆡 🆢 🆣
 🆤 🆦 🆧 🆨 🆩 🆪 🆫 🆬
 
-**Other Symbol Sets:**
-✪ ★ ✱ ✻ ♠ ♡ ♢ ♣
+**Card Suites:**
+♠ ♡ ♢ ♣
 
+**Arrows:**
 ← ↑ → ↓ ↔ ⇒ ⇔ ▲ ▼ ► ◄
 
-⚿ ⛝
+**Other Symbols:**
+✪ ★ ✱ ✻ ⚿ ⛝
 
 **Colored Unicode Characters:**
 ❎ 🆎
