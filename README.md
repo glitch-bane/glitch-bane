@@ -60,7 +60,11 @@
 > 
 > **"**Skye: Instead of a dream, you're living a nightmare, you're afraid of being erased, as if you never existed... You have been keeping up, you've made an impact. Not a single thing in this world isn't in the process of becoming something else. Likewise, you. Never look back. If you gotta kill, kill. If you gotta burn it all to the ground, let it burn.**"**
 > 
-> ~ *Cyberpunk 2077*
+> ~ *CP-2077*
+> 
+> [*Ono-Sendai*]
+> 
+> **"**...It wasn’t a name he knew. Something new, something that had come in since he’d been in Chiba. Fads swept the youth of the Sprawl at the speed of light: entire subcultures could rise overnight, thrive for a dozen weeks, and then vanish utterly...**"**
 
 [![Typing SVG](https://github.com/glitch-bane/glitch-bane/blob/main/assets/vectors/typing.rant.svg?raw=true)](#)
 
