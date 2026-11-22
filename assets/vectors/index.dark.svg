@@ -30,7 +30,7 @@
 	<tspan x="15" y="350"> ├─── HOST MACHINES:     │CACHYOS││DEBIAN││MACOS│                   </tspan>
 	<tspan x="15" y="370"> │                       └───────┘└──────┘└─────┘                   </tspan>
 	<tspan x="15" y="390"> │                       ┌────────────────────────────────┐         </tspan>
-	<tspan x="15" y="410"> ├─── KERNEL UPTIME:     │  17 YEARS, 121 DAYS, 04 HOURS  │         </tspan>
+	<tspan x="15" y="410"> ├─── KERNEL UPTIME:     │  17 YEARS, 286 DAYS, 23 HOURS  │         </tspan>
 	<tspan x="15" y="430"> │                       └────────────────────────────────┘         </tspan>
 	<tspan x="15" y="450"> │                       ┌──────┐┌─────┐┌──────┐┌───┐               </tspan>
 	<tspan x="15" y="470"> ├─── BACKEND LANGUAGES: │DOTNET││SHELL││NODEJS││SQL│               </tspan>
