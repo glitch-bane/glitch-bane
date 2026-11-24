@@ -1,9 +1,9 @@
-name: Update Kernel Uptime SVGs
+name: Weekly Update of Kernel Uptime SVGs
 
 on:
   schedule:
-    # RUNS EVERY SUNDAY AT 00:00 UTC
-    - cron: '0 0 * * 0'
+    # RUNS EVERY MONDAY AT 10AM EST (15 UTC)
+    - cron: '0 15 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -27,16 +27,18 @@ jobs:
 
       # STEP 3: RUN UPDATE SCRIPT
       - name: Calculate and inject new uptime
-        run: python .github/scripts/update_uptime.py
+        run: python .github/scripts/update_uptime_svgs.py
 
       # STEP 4: SUBMIT PULL REQUEST
       - name: Create pull request
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "chore: update kernel uptime SVGs"
-          title: "chore: weekly kernel uptime sync"
+          commit-message: "chore(assets): Update Kernel Uptime SVGs"
+          title: "chore(assets): Weekly Kernel Uptime SVG Sync"
           body: |
-            Automated weekly refresh of `assets/vectors/index.light.svg` and `assets/vectors/index.dark.svg` uptime counters.
+            Automated weekly refresh of uptime counters:
+            - `assets/vectors/index.light.svg`
+            - `assets/vectors/index.dark.svg`
           branch: chore/update-kernel-uptime
           delete-branch: true

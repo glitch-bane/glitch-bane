@@ -92,6 +92,7 @@ A quick reference to copy-paste unique unicode characters.
 **merits.flow, Version 1.0:**
 
 > FROM UPTIME ON 02-09-2009: 17 YEARS, 121 DAYS, 04 HOURS, 35 MINUTES
+> NOW ON CRON
 
 ```
 │                                                         
